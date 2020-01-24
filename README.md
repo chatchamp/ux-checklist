@@ -7,7 +7,7 @@
 ## Fonts
 
 - Is the right *font type* used?
-- Is the *font size* big enough?
+- Is the *font size* big enough (readability)?
 
 ## Spacing
 
@@ -15,8 +15,13 @@
 
 ## Aligment
 
-- Is the component properly aligned?
+- Are related elements aligned (vertically or horizontally) to each other?
 
-## Consistency
+## Colors
+
+- Are we using the same colors as in other screens?
+- Are colors used in the expected way (eg. green is good and red is bad)?
 
 ## Size
+
+- Are elements sized according to their importance?
