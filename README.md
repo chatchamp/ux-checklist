@@ -4,6 +4,10 @@
 
 - https://www.canva.com/learn/design-rules/
 
+## General
+
+- Everything the user does should be revertable. If an action is not easily revertable the action needs a confirmation dialog.
+
 ## Fonts
 
 - Is the right *font type* used?
