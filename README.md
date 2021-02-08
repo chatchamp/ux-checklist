@@ -1,12 +1,14 @@
-# ux-checklist
+# Chatchamp Website Usability Checklist
 
 ## Reading material
 
 - https://www.canva.com/learn/design-rules/
+- http://uxbert.com/wp-content/uploads/2015/02/Usability-101-handout-uxbert.png?x99853
 
 ## General
 
 - Everything the user does should be revertable. If an action is not easily revertable the action needs a confirmation dialog.
+- Use the language the user uses on a day-to-day basis.
 
 ## Fonts
 
